@@ -1,6 +1,6 @@
-# Main Heading
+# github
 GitHub
-## Subheading
+## signup
 Signup
 ### Sub-subheading
 
